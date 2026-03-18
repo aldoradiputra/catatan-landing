@@ -1,2 +1,0 @@
-# catatan-landing
-landing page
